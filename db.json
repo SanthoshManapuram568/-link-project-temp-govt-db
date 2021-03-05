@@ -1,16 +1,24 @@
 {
-  "posts":[
+  "govt-links": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "link": "www.google.com",
+      "description": "Google Website"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "link": "sa",
+      "description": "santhosh",
+      "id": 2
+    },
+    {
+      "link": "san",
+      "description": "santhosh",
+      "id": 3
+    },
+    {
+      "link": "san",
+      "description": "santhosh",
+      "id": 4
     }
   ]
 }
